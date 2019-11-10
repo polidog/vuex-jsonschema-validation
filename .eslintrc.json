@@ -1,9 +1,13 @@
 {
   "extends": ["eslint:recommended"],
-  "plugins": [],
+  "plugins": ["prettier"],
   "parser": "babel-eslint",
-  "parserOptions": {},
-  "env": {"browser": true},
-  "globals": {},
-  "rules": {}
+  "rules": {
+    "prettier/prettier": "error"
+  },  
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "globals": {}
 }

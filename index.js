@@ -1,6 +1,6 @@
 import Ajv from 'ajv'
 import deepcopy from 'deepcopy'
-const ajv = new Ajv({allErrors: true})
+const ajv = new Ajv({ allErrors: true })
 
 export default function storeJsonSchemaValidation(schema) {
   return store => {
