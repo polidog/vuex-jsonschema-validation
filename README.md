@@ -1,6 +1,6 @@
 # vuex-jsonschema-validation
 
-A vuex state validateion plugin on change state.
+A vuex state validation plugin on change state.
 
 ## usage
 
