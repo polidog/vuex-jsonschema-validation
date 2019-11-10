@@ -17,7 +17,7 @@
   "author": "polidog",
   "repository": {
     "type": "git",
-    "url": "https://github.com/polidog/nippo.git"
+    "url": "https://github.com/polidog/vuex-jsonschema-validation.git"
   },
   "license": "MIT",
   "dependencies": {
