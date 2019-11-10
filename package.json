@@ -15,6 +15,10 @@
     "json schema"
   ],
   "author": "polidog",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/polidog/nippo.git"
+  },
   "license": "MIT",
   "dependencies": {
     "ajv": "^6.10.2"
