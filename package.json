@@ -1,6 +1,6 @@
 {
   "name": "vuex-jsonschema-validation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "vuex state validation for json schema.",
   "main": "src/index.js",
   "scripts": {
