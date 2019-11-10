@@ -1,0 +1,9 @@
+{
+  "extends": ["eslint:recommended"],
+  "plugins": [],
+  "parser": "babel-eslint",
+  "parserOptions": {},
+  "env": {"browser": true},
+  "globals": {},
+  "rules": {}
+}
