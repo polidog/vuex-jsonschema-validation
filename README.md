@@ -10,7 +10,7 @@ npm install --save vuex-jsonschema-validation
 
 create vuex store and json schema.
 
-```
+```js
 // schema.json
 
 {
@@ -38,7 +38,7 @@ create vuex store and json schema.
 }
 ```
 
-```
+```js
 // store.js
 
 import Vue from 'vue'
